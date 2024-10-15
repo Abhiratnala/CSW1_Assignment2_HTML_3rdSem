@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  		<title>navigation bar</title>
+		<style>
+			ul{
+				list-style-type:none;
+				background-color:black;
+				width:400px;
+                        	margin:0;
+				padding:0;
+				overflow:hidden;
+			}
+                       li{ 
+				float:left;
+			}
+			li a{
+			color:pink;
+			padding:10px;
+			display:block;
+                        }
+			
+li a:hover{ background-color:orange;
+color:blue;
+}
+
+
+		</style>
+  	</head>
+	<body>
+  		<ul>
+			<li><a href="#"><img arc="C:\ratnala abhignya_2341001003\assignment_2\q08\flower1.png"
+"C:\ratnala abhignya_2341001003\assignment_2\q08\korea1.png"/></a></li>
+			<li><a href="#"><img arc="C:\ratnala abhignya_2341001003\assignment_2\q08\flower1.png"
+"C:\ratnala abhignya_2341001003\assignment_2\q08\korea1.png"/></a></li>
+			<li><a href="#"><img arc="C:\ratnala abhignya_2341001003\assignment_2\q08\flower1.png"
+"C:\ratnala abhignya_2341001003\assignment_2\q08\korea1.png"/></a></li>
+			<li><a href="#"><img arc="C:\ratnala abhignya_2341001003\assignment_2\q08\flower1.png"
+"C:\ratnala abhignya_2341001003\assignment_2\q08\korea1.png"/></a></li>
+			
+		</ul>
+	</body>
+</html>
